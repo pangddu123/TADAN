@@ -11,9 +11,7 @@ Time series data often contain instances with similar variances but differing an
 2. Train and evaluate. You can reproduce the experiment results as follows:
 
    ```python
-
    python main.py --dataset SMD --q 0.005
-
    ```
 
 ## Main Result
