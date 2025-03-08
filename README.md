@@ -14,7 +14,7 @@
    operations. You can learn about it from [SWaT: a water treatment testbed for research and training on ICS security
    ](https://ieeexplore.ieee.org/abstract/document/7469060).
 
-## 	Get Started
+## Get Started
 
 1. Install Python 3.9.13, PyTorch 1.11.0.
 
